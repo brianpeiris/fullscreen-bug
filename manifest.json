@@ -4,7 +4,7 @@
   "name": "fullscreen-bug",
   "short_name": "fs-bug",
   "scope": "fullscreen-bug.html",
-  "start_url": "fullscreen-bug.html",
+  "start_url": "fullscreen-bug.html?v=150",
   "display": "fullscreen",
   "orientation": "portrait",
   "serviceworker": {
