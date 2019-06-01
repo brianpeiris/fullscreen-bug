@@ -1,0 +1,15 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "fullscreen-bug",
+  "short_name": "fs-bug",
+  "scope": "/fullscreen-bug.html",
+  "start_url": "/fullscreen-bug.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "serviceworker": {
+    "src": "fullscreen-bug-sw.js",
+    "scope": "/fullscreen-bug.html",
+    "update_via_cache": "none"
+  }
+}
