@@ -11,5 +11,12 @@
     "src": "fullscreen-bug-sw.js",
     "scope": "fullscreen-bug.html",
     "update_via_cache": "none"
-  }
+  },
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
 }
